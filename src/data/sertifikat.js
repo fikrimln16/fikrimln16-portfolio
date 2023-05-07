@@ -2,6 +2,8 @@ import SertifikatImage1 from "../assets/certifications/1.png"
 import SertifikatImage2 from "../assets/certifications/2.png"
 import SertifikatImage3 from "../assets/certifications/3.png"
 import SertifikatImage4 from "../assets/certifications/4.png"
+import SertifikatImage5 from "../assets/certifications/5.png"
+import SertifikatImage6 from "../assets/certifications/6.png"
 
 export const sertifikat = [
    {
@@ -13,6 +15,16 @@ export const sertifikat = [
       image: SertifikatImage2,
       title: "Dicoding",
       desc: "Belajar Dasar Pemrograman Web"
+   },
+   {
+      image: SertifikatImage5,
+      title: "Dicoding",
+      desc: "Menjadi Google Cloud Engineering"
+   },
+   {
+      image: SertifikatImage6,
+      title: "Dicoding",
+      desc: "Dasar Pemrograman untuk Pengembangan Web"
    },
    {
       image: SertifikatImage3,
