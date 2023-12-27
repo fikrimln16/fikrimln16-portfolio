@@ -2,6 +2,7 @@ import ProjectImage1 from "../assets/project-card/autogatesystem.png"
 import ProjectImage2 from "../assets/project-card/dailycost.png"
 import ProjectImage3 from "../assets/project-card/tebakangka.png"
 import ProjectImage4 from "../assets/project-card/wa-bot.png"
+import ProjectImage4 from "../assets/project-card/booking-app.jpeg"
 
 export const projects = [
    {
@@ -29,5 +30,11 @@ export const projects = [
       title: "WhatsApp Bot",
       desc: "Berpengalaman membuat whatsapp bot menggunakan twillio dan untuk api menggunakan flask dari python.",
       link: "https://github.com/fikrimln16/DAILYCOSTAPI-WA-BOT"
+   },
+   {
+      image: ProjectImage5,
+      title: "Simple Booking Web",
+      desc: "Membuat website booking online, yang sistemnya harus di acc admin, dan request dari user.",
+      link: "https://github.com/fikrimln16/booking-app-fe"
    }
 ]
