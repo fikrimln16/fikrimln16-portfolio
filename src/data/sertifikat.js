@@ -5,6 +5,7 @@ import SertifikatImage4 from "../assets/certifications/4.png"
 import SertifikatImage5 from "../assets/certifications/5.png"
 import SertifikatImage6 from "../assets/certifications/6.png"
 import SertifikatImage7 from "../assets/certifications/7.png"
+import SertifikatImage8 from "../assets/certifications/8.png"
 
 export const sertifikat = [
    {
@@ -41,5 +42,10 @@ export const sertifikat = [
       image: SertifikatImage7,
       title: "Bangkit 2023",
       desc: "Cloud Computing Bangkit 2023"
+   },
+   {
+      image: SertifikatImage8,
+      title: "HackerRank",
+      desc: "SQL (Intermediate) HackerRank"
    }
 ];
