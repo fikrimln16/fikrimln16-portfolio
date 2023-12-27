@@ -2,7 +2,7 @@ import ProjectImage1 from "../assets/project-card/autogatesystem.png"
 import ProjectImage2 from "../assets/project-card/dailycost.png"
 import ProjectImage3 from "../assets/project-card/tebakangka.png"
 import ProjectImage4 from "../assets/project-card/wa-bot.png"
-import ProjectImage4 from "../assets/project-card/booking-app.jpeg"
+import ProjectImage5 from "../assets/project-card/booking-app.jpeg"
 
 export const projects = [
    {
