@@ -4,6 +4,7 @@ import SertifikatImage3 from "../assets/certifications/3.png"
 import SertifikatImage4 from "../assets/certifications/4.png"
 import SertifikatImage5 from "../assets/certifications/5.png"
 import SertifikatImage6 from "../assets/certifications/6.png"
+import SertifikatImage7 from "../assets/certifications/7.png"
 
 export const sertifikat = [
    {
@@ -36,4 +37,9 @@ export const sertifikat = [
       title: "Coursera",
       desc: "The Bit And Bytes of Computer Networking"
    },
+   {
+      image: SertifikatImage7,
+      title: "Bangkit 2023",
+      desc: "Cloud Computing Bangkit 2023"
+   }
 ];
